@@ -1,0 +1,32 @@
+C:\Users\ahu1\Desktop\testproject\testproject\bin\Debug\testproject.exe.config
+C:\Users\ahu1\Desktop\testproject\testproject\bin\Debug\testproject.exe
+C:\Users\ahu1\Desktop\testproject\testproject\bin\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.csprojResolveAssemblyReference.cache
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.Properties.Resources.resources
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.csproj.GenerateResource.Cache
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.exe
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\testproject\testproject\obj\Debug\testproject.Form1.resources
+C:\Users\ahu1\Desktop\database (25)\testproject\bin\Debug\testproject.exe.config
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.exe
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\database (25)\testproject\bin\Debug\testproject.exe
+C:\Users\ahu1\Desktop\database (25)\testproject\bin\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.csprojResolveAssemblyReference.cache
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.Form1.resources
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.Properties.Resources.resources
+C:\Users\ahu1\Desktop\database (25)\testproject\obj\Debug\testproject.csproj.GenerateResource.Cache
+C:\Users\ahu1\Desktop\hackerproject\testproject\bin\Debug\testproject.exe.config
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.exe
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\hackerproject\testproject\bin\Debug\testproject.exe
+C:\Users\ahu1\Desktop\hackerproject\testproject\bin\Debug\testproject.pdb
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.csprojResolveAssemblyReference.cache
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.Form1.resources
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.Properties.Resources.resources
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.csproj.GenerateResource.Cache
+C:\Users\ahu1\Desktop\hackerproject\testproject\bin\Debug\Interop.WMPLib.dll
+C:\Users\ahu1\Desktop\hackerproject\testproject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\Interop.WMPLib.dll
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ahu1\Desktop\hackerproject\testproject\obj\Debug\testproject.csproj.ResolveComReference.cache
